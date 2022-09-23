@@ -24,4 +24,3 @@ And run using `npx react-native start` && `npx react-native run-android` && `npx
   <img src="screenshot/splashScreenAndroid.png" width="40%" />
   <img src="screenshot/splashScreenIos.png" width="40%" />
 </p>
-# Splash-Screen-RN-
