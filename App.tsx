@@ -65,7 +65,7 @@ const App = () => {
   useEffect(() => {
     setTimeout(() => {
       SplashScreen.hide();
-    }, 1200);
+    }, 1500);
   }, [])
 
   const backgroundStyle = {
